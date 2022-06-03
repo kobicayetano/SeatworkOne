@@ -1,4 +1,4 @@
-# Seat Work One
+# Seatwork One
 
 ## Java Seatwork for OJT.
 
